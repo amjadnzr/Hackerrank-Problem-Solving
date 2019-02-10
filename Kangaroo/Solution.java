@@ -22,7 +22,7 @@ public class Solution {
                     }
 
                     x1+=v1;
-                    x2+=v2;
+                    x2+=v2;   
                  }
              }
          }
