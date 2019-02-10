@@ -13,8 +13,7 @@ public class Solution {
        int step=0;
        int count=0;
        for(int i=0;i<n;i++){
-
-           if(step==0 && s.charAt(i)=='D'){
+            if(step==0 && s.charAt(i)=='D'){
                count++;
            }
 
